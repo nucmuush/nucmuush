@@ -1,0 +1,37 @@
+a.navbar{
+    background-color: black;
+    color: white;
+    height: 30vh;
+}
+.b{
+   background-color: #0dcaf0;
+    height:30vh;
+    color: white;
+}
+.c{
+    background-color: #0a3622;
+    height: 30vh;
+    color: white;
+}
+.d{
+    background-color: #0a58ca;
+    height: 30vh;
+    color: white;
+}
+.e{
+    background-color: #664d03;
+    height: 30vh;
+    color: white;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 16px;
+}
